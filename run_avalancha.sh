@@ -1,0 +1,1 @@
+docker-compose run k6 run /scripts/single-request.js --config "/scripts/configs/avalancha.json"
