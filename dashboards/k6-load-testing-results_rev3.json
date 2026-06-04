@@ -52,7 +52,7 @@
   "id": null,
   "uid": "k6",
   "links": [],
-  "refresh": "false",
+  "refresh": false,
   "rows": [
     {
       "collapse": false,
