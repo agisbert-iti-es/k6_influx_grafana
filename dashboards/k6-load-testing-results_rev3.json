@@ -52,7 +52,6 @@
   "id": null,
   "uid": "k6",
   "links": [],
-  "refresh": "1s",
   "rows": [
     {
       "collapse": false,
@@ -1589,7 +1588,6 @@
   },
   "timepicker": {
     "refresh_intervals": [
-      "1s",
       "5s",
       "10s",
       "30s",
